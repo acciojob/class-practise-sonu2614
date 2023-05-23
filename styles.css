@@ -1,4 +1,4 @@
-p:nth-child(even) {
-            background: #eee;
-            color:#00f;
-            }
+.cl { 
+	background: #eee;
+    color:#00f;
+}
